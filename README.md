@@ -15,3 +15,13 @@ Este es un Tema Telegrama Color Morado Creado por Huezo Con el Nombre de cnBrend
 #page
 
 [https://huezo.github.io/cnBrendy_purpleTheme/](https://huezo.github.io/cnBrendy_purpleTheme/)
+
+
+
+
+
+## Theme
+[cnBrendy]:https://raw.githubusercontent.com/huezo/cnBrendy_purpleTheme/master/demo.png
+
+
+![Theme][cnBrendy]
