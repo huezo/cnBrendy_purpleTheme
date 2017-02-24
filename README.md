@@ -1,5 +1,16 @@
 
 
+## Theme Android 
+[cnBrendy1]:https://raw.githubusercontent.com/huezo/cnBrendy_purpleTheme/master/cn-Brendy.png
+
+
+![Theme1][cnBrendy1]
+
+[cnBrendy2]:https://raw.githubusercontent.com/huezo/cnBrendy_purpleTheme/master/cn_Brendy.png
+
+
+![Theme2][cnBrendy]
+
 ## Theme
 [cnBrendy]:https://raw.githubusercontent.com/huezo/cnBrendy_purpleTheme/master/demo.png
 
