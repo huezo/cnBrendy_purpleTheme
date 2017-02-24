@@ -1,15 +1,17 @@
 
 
 ## Theme Android 
+
+
+
 [cnBrendy1]:https://raw.githubusercontent.com/huezo/cnBrendy_purpleTheme/master/cn-Brendy.png
-
-
-![Theme1][cnBrendy1]
 
 [cnBrendy2]:https://raw.githubusercontent.com/huezo/cnBrendy_purpleTheme/master/cnBrendy.png
 
+![Theme1][cnBrendy1]
 
-![Theme2][cnBrendy]
+![Theme2][cnBrendy2]
+
 
 ## Theme
 [cnBrendy]:https://raw.githubusercontent.com/huezo/cnBrendy_purpleTheme/master/demo.png
