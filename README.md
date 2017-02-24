@@ -6,7 +6,7 @@
 
 ![Theme1][cnBrendy1]
 
-[cnBrendy2]:https://raw.githubusercontent.com/huezo/cnBrendy_purpleTheme/master/cn_Brendy.png
+[cnBrendy2]:https://raw.githubusercontent.com/huezo/cnBrendy_purpleTheme/master/cnBrendy.png
 
 
 ![Theme2][cnBrendy]
