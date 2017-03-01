@@ -2,6 +2,18 @@
 
 ## Theme Android 
 
+cnBrendy.attheme v 2.1 Android 
+
+
+[cnBrendy3]:https://raw.githubusercontent.com/huezo/cnBrendy_purpleTheme/master/cnBrendy_2-1.png
+[cnBrendy3]:https://raw.githubusercontent.com/huezo/cnBrendy_purpleTheme/master/cnbrendy_2.1_.png
+
+
+![Theme3][cnBrendy3]
+
+![Theme4][cnBrendy4]
+
+cnBrendy.attheme v 2.0 Android 
 
 
 [cnBrendy1]:https://raw.githubusercontent.com/huezo/cnBrendy_purpleTheme/master/cn-Brendy.png
